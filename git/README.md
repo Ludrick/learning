@@ -213,7 +213,7 @@ Track empty dir:
 `touch dir/.gitkeep`
 
 ## Log
-Show files of the Local Repository (HEAD):
+Show files commited to the Local Repository:
 `git ls-files`
 
 Show commits:
